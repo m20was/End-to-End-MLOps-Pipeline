@@ -1,0 +1,17 @@
+name: mlflow
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - scikit-learn
+  - mlflow
+  - fastapi
+  - uvicorn
+  - pydantic
+  - python-dotenv
+  - joblib
+  - great-expectations
+  - pytest
