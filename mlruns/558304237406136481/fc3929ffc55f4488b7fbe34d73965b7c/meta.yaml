@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Job/Projects/MLOps/End-to-End-MLOps-Pipeline/mlruns/558304237406136481/fc3929ffc55f4488b7fbe34d73965b7c/artifacts
+end_time: 1778871169099
+entry_point_name: ''
+experiment_id: '558304237406136481'
+lifecycle_stage: active
+run_id: fc3929ffc55f4488b7fbe34d73965b7c
+run_name: treasured-shrimp-5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778871161993
+status: 3
+tags: []
+user_id: m20was

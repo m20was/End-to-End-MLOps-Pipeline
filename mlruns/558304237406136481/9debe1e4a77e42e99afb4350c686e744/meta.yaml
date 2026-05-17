@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Job/Projects/MLOps/End-to-End-MLOps-Pipeline/mlruns/558304237406136481/9debe1e4a77e42e99afb4350c686e744/artifacts
+end_time: 1778832783302
+entry_point_name: ''
+experiment_id: '558304237406136481'
+lifecycle_stage: active
+run_id: 9debe1e4a77e42e99afb4350c686e744
+run_name: sedate-rook-566
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778832770966
+status: 3
+tags: []
+user_id: m20was

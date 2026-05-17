@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Job/Projects/MLOps/End-to-End-MLOps-Pipeline/mlruns/558304237406136481/models/m-8b0f3b07b6304d4cbda89ff73bb4f478/artifacts
+creation_timestamp: 1778871162656
+experiment_id: '558304237406136481'
+last_updated_timestamp: 1778871169054
+model_id: m-8b0f3b07b6304d4cbda89ff73bb4f478
+model_type: null
+name: model
+source_run_id: fc3929ffc55f4488b7fbe34d73965b7c
+status: 2
+status_message: null

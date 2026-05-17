@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Job/Projects/MLOps/End-to-End-MLOps-Pipeline/mlruns/558304237406136481/3e77556a4762416e98ba7401defa1dd8/artifacts
+end_time: 1778833208258
+entry_point_name: ''
+experiment_id: '558304237406136481'
+lifecycle_stage: active
+run_id: 3e77556a4762416e98ba7401defa1dd8
+run_name: burly-newt-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778833200195
+status: 3
+tags: []
+user_id: m20was

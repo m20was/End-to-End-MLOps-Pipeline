@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Job/Projects/MLOps/End-to-End-MLOps-Pipeline/mlruns/558304237406136481/09cda5309ead46dbb54cb5055b71d053/artifacts
+end_time: 1778832865407
+entry_point_name: ''
+experiment_id: '558304237406136481'
+lifecycle_stage: active
+run_id: 09cda5309ead46dbb54cb5055b71d053
+run_name: burly-perch-860
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778832856866
+status: 3
+tags: []
+user_id: m20was

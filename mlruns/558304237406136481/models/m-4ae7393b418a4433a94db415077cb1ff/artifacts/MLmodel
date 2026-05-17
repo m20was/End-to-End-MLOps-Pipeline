@@ -1,0 +1,22 @@
+artifact_path: file:///d:/Job/Projects/MLOps/End-to-End-MLOps-Pipeline/mlruns/558304237406136481/models/m-4ae7393b418a4433a94db415077cb1ff/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.10.20
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.2.0
+mlflow_version: 3.12.0
+model_id: m-4ae7393b418a4433a94db415077cb1ff
+model_size_bytes: 674982
+model_uuid: m-4ae7393b418a4433a94db415077cb1ff
+prompts: null
+run_id: 750077df6e45489ba8b55911d15c13cd
+utc_time_created: '2026-05-15 08:55:31.968618'

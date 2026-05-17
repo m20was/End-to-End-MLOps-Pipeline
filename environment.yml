@@ -15,3 +15,7 @@ dependencies:
   - joblib
   - great-expectations
   - pytest
+  - seaborn
+  - lightgbm
+  - xgboost
+  - optuna
